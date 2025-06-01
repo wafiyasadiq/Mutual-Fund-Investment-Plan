@@ -2,7 +2,8 @@
 This repository consists of the project where it consists of a detailed analysis of how someone can invest in mutual funds. 
 This project simulates and analyzes a Systematic Investment Plan (SIP) using real mutual fund data from AMFI to help a 21-year-old investor with an annual income of ₹3,84,000 plan for long-term wealth generation.
 
-******🧠 Objective**
+**🧠 Objective**
+
 To create a smart, realistic, and flexible investment plan that can grow into ₹1 crore or more over 20 years using mutual funds, step-up SIPs, and CAGR-based projections with tools like Excel and Python.
 
 **📋 Investor Profile**
