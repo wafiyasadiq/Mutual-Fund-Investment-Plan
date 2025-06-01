@@ -1,4 +1,4 @@
-# Excel+Python Wealth Tracker- Mutual-Fund-Investment-Plan
+# Excel+Python Wealth Tracker- Mutual Fund Investment Plan
 This repository consists of the project where it consists of a detailed analysis of how someone can invest in mutual funds. 
 This project simulates and analyzes a Systematic Investment Plan (SIP) using real mutual fund data from AMFI to help a 21-year-old investor with an annual income of ₹3,84,000 plan for long-term wealth generation.
 
@@ -6,6 +6,7 @@ This project simulates and analyzes a Systematic Investment Plan (SIP) using rea
 To create a smart, realistic, and flexible investment plan that can grow into ₹1 crore or more over 20 years using mutual funds, step-up SIPs, and CAGR-based projections with tools like Excel and Python.
 
 **📋 Investor Profile**
+
 Age: 21 years
 
 Annual Income: ₹3,84,000
@@ -19,6 +20,7 @@ Goal: Build a corpus of ₹1 crore or more
 Risk Profile: Moderate to High (considering exposure to mid-cap, small-cap, and flexi-cap funds)
 
 **📊 Tools & Tech Stack**
+
 ✅ Python (Pandas, Matplotlib)
 
 ✅ Microsoft Excel (Data output & analysis)
@@ -28,6 +30,7 @@ Risk Profile: Moderate to High (considering exposure to mid-cap, small-cap, and 
 ✅ Jupyter / VS Code for development
 
 **🔎 Project Features**
+
 ✅ Loads real NAV history data from AMFI
 
 ✅ Simulates monthly SIP contributions over 240 months
